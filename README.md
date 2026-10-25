@@ -1,3 +1,15 @@
+# Immux-music-platform
+Free music platform
+
+
+Check out Immux music platform!
+
+
+https://immux-music-platform-432.spark.site/
+
+open in browser then settings find install/shortcut install app sign in (google/spark annouance) code be emailed then upload your music and YOUR MUSIC only plz send app to creators that you want them to upload so we can be FREE Thanks
+
+
 <img width="432" height="962" alt="496048" src="https://github.com/user-attachments/assets/a4ca421e-c20f-46a6-85d9-9a9ce9832197" />
 <img width="432" height="962" alt="496049" src="https://github.com/user-attachments/assets/168358ff-d780-4ef9-ae44-c42c41a85059" />
 <img width="432" height="962" alt="496050" src="https://github.com/user-attachments/assets/c06186bb-4dab-424c-941d-2cb487053247" />
@@ -16,16 +28,6 @@
 <img width="432" height="962" alt="496059" src="https://github.com/user-attachments/assets/fe2467b9-f582-4524-868b-f76c00884800" />
 
 <img width="432" height="962" alt="496059" src="https://github.com/user-attachments/assets/0f5811df-16af-49f1-b149-60d76d1193c9" />
-# Immux-music-platform
-Free music platform
 
 
-Check out Immux music platform!
 
-https://play.google.com/store/apps/details?id=com.webapp.immuxmusicplatform
-
-if link above fails use method #2
-
-https://immux-music-platform-432.spark.site/
-
-open in browser then settings find install/shortcut install app sign in (google/spark annouance) code be emailed then upload your music and YOUR MUSIC only plz send app to creators that you want them to upload so we can be FREE Thanks
