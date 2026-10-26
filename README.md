@@ -29,5 +29,37 @@ open in browser then settings find install/shortcut install app sign in (google/
 
 <img width="432" height="962" alt="496059" src="https://github.com/user-attachments/assets/0f5811df-16af-49f1-b149-60d76d1193c9" />
 
+Updated 
+
+
+
+<img width="432" height="962" alt="497261" src="https://github.com/user-attachments/assets/9a7622ca-f9c6-46ef-9fb6-b9f16df88839" />
+<img width="432" height="962" alt="497260" src="https://github.com/user-attachments/assets/4eea8803-bfba-45f9-9f0d-dcf0b00718ee" />
+<img width="432" height="962" alt="497259" src="https://github.com/user-attachments/assets/d559f00a-56c9-46af-ad89-ce818a3590d6" />
+<img width="432" height="962" alt="497258" src="https://github.com/user-attachments/assets/374c43e7-e9f9-48e1-a416-732884114ad1" />
+<img width="432" height="962" alt="497257" src="https://github.com/user-attachments/assets/beb9a193-fab2-4bc7-8b17-f372251f4af6" />
+<img width="432" height="962" alt="497256" src="https://github.com/user-attachments/assets/52705e30-b764-42bc-a449-b310ea6551a0" />
+
+<img width="432" height="962" alt="497255" src="https://github.com/user-attachments/assets/864eca1b-530f-49a7-bc5a-79cb08223149" />
+<img width="432" height="962" alt="497254" src="https://github.com/user-attachments/assets/c7a60e9b-f6df-4619-a3e5-8a1258753b1b" />
+<img width="432" height="962" alt="497253" src="https://github.com/user-attachments/assets/ea1945b9-cd4f-40ad-b927-4962a1ef7898" />
+
+<img width="432" height="962" alt="497252" src="https://github.com/user-attachments/assets/24ea00e9-424c-419a-84e5-0b26d484fcaf" />
+
+
+
+
+
+
+<img width="432" height="962" alt="497256" src="https://github.com/user-attachments/assets/602cf3d8-70c8-4d0a-a612-57bb3f976679" />
+<img width="432" height="962" alt="497255" src="https://github.com/user-attachments/assets/cb80fdf6-3b6b-401d-a829-83014b3bee8b" />
+<img width="432" height="962" alt="497254" src="https://github.com/user-attachments/assets/13ee6df8-7978-419d-b073-79ca6ab21717" />
+<img width="432" height="962" alt="497253" src="https://github.com/user-attachments/assets/9b4bde07-b75d-4505-8c76-91176af400eb" />
+<img width="432" height="962" alt="497252" src="https://github.com/user-attachments/assets/8a1e32a5-f18b-4b15-9fdc-8cfefdbda22d" />
+
+
+
+
+
 
 
